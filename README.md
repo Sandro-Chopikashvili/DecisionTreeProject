@@ -1,11 +1,11 @@
 # 📊 Adult Census Income Classification
 
-This project uses the **Adult Census Income** dataset from [UCI via Kaggle](https://www.kaggle.com/datasets/uciml/adult-census-income) to predict whether a person earns more than \$50K a year using a **Decision Tree Classifier**.
+This project uses the **Adult Census Income** dataset from [UCI via Kaggle](https://www.kaggle.com/datasets/uciml/adult-census-income) to predict whether a person earns more than \$50K a year using a **Random Forest Classifier**.
 
 ## 🔍 Project Overview
 
 - **Goal**: Classify income (`>50K` or `<=50K`) based on demographic and employment-related attributes.
-- **Algorithm**: Decision Tree Classifier  
+- **Algorithm**: Random Forest Classifier  
 - **Evaluation**: Accuracy (via cross-validation)
 
 ## 🧰 Tools & Libraries
